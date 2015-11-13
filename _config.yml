@@ -1,21 +1,21 @@
 # Site settings
-title:       "Linnea Strid Portfolio"
-email:       "stridlinnea@gmail.com"
-author:      "Linnea Strid"
-description: "The portfolio of Linnea Strid - UX and Frontend designer"
-url:         "http://linneastrid.com"
+title:       "Template title"
+email:       "templateemail@email.com"
+author:      "Template Author"
+description: "Templatedescriprion"
+url:         "http://example.com"
 
 # Authors
 authors:
-  linnea:
-    name: "Linnea Strid"
-    display_name: "Linnea Strid"
-    email: linnea@seriousfox.co.uk
-    twitter: babolili
+  author:
+    name: "Author name"
+    display_name: "author display name"
+    email: author email
+    twitter: author_twitter
     active: ""
 
 # Google analytics
-google_analytics: 'UA-63176802-1'
+google_analytics: 
 
 # Optional features
 animated:           false
@@ -31,9 +31,9 @@ disqus_shortname:
 # Social icons
 
 show_social_icons: true
-github_username: babolili
+github_username: 
 stackoverflow_id:
-twitter_username: babolili
+twitter_username: 
 
 google_plus_id:
 linkedin_username:
